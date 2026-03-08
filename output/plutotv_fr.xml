@@ -10003,9 +10003,9 @@ Lionel nous montre les tourbières des Sagnes afin de comprendre les moyens d'an
         <icon src="https://images.pluto.tv/series/659fb52b32c1b30008de1be1/tile_1772460692037.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc-fr" start="20260308213000 +0000" stop="20260308215200 +0000">
-        <title>DAZN Combat</title>
-        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
-        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>DAZN Ringside</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="64d626ac9b414d000820e2fc-fr" start="20260308215200 +0000" stop="20260308224500 +0000">
         <title>Boxing</title>
@@ -21160,6 +21160,11 @@ Pour résoudre ces cas, Norin doit inventer de nouvelles techniques opératoires
         <title>Pas un mot</title>
         <desc>Quand la fille du docteur Nathan Conrad est enlevée, un secret qu’une de ses patientes catatonique détient pourrait être son seul espoir.</desc>
         <icon src="https://images.pluto.tv/series/606d73c0a224c9001bb946dc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269-fr" start="20260309124431 +0000" stop="20260309143031 +0000">
+        <title>Bad lieutenant</title>
+        <desc>Il a vécu dans la rue pendant 20 ans : joueur, voleur, junkie, tueur, flic… Il enquête sur le viol d’une jolie religieuse. Maintenant, il va entamer sa descente aux enfers en quête de rédemption.</desc>
+        <icon src="https://images.pluto.tv/series/610116e869a4500013453007/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed1ff5c39700007e2204a-fr" start="20260309075138 +0000" stop="20260309091722 +0000">
         <title>Top Gunner: America vs Russia</title>
