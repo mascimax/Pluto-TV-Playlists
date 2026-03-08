@@ -2247,6 +2247,11 @@
         <desc>Un groupe d’immigrants s’est introduit illégalement en Corée du Sud. Ils sont arrivés par bateau, tous entassés dans un container. Sans le savoir, l’un d’eux était porteur d’un virus...</desc>
         <icon src="https://images.pluto.tv/series/610117bc0c13e6001319f6a2/tile_1768330444370.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60c34592c911890007f29a73" start="20260308200827 +0000" stop="20260308215059 +0000">
+        <title>Skyfire</title>
+        <desc>Sur l’île de Tianhuov, alors qu’une fête bat son plein, un volcan de l’Anneau de Feu se réveille. Un jeune scientifique tente de convaincre le propriétaire du parc de procéder à l’évacuation avant que la catastrophe ne frappe.</desc>
+        <icon src="https://images.pluto.tv/series/695d16ce287ec44e140d354c/tile_1767761330286.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60c3472a51a2050008dad272" start="20260308142607 +0000" stop="20260308161404 +0000">
         <title>The Wolf Hour</title>
         <desc>Juillet 1977. New York. June Leigh, ancienne romancière à succès en panne d'inspiration, est retranchée dans son appartement. Alors que de violentes émeutes et pillages plongent la ville dans le chaos, June est harcelée par un mystérieux individu...</desc>
@@ -2261,6 +2266,11 @@
         <title>Black Rain</title>
         <desc>Un policier new-yorkais est chargé d'escorter à Osaka un criminel japonais. Rapidement, ce dernier s'échappe. Le représentant de l'ordre va alors avoir beaucoup de mal à le retrouver dans un pays dont il ignore les us et coutumes.</desc>
         <icon src="https://images.pluto.tv/series/66192efa2fd04d00130c94f4/tile_1768333686381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c3472a51a2050008dad272" start="20260308201452 +0000" stop="20260308220352 +0000">
+        <title>Siberia</title>
+        <desc>Un négociant en diamants tente de vendre des pierres aux origines douteuses à des acheteurs russes. Alors que la vente commence à capoter, sa rencontre avec une femme dans une petite ville de Sibérie tourne à l'obsession.</desc>
+        <icon src="https://images.pluto.tv/series/63315a7f48fe5f0013fabdf0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3e0522443200008c567d7" start="20260308142323 +0000" stop="20260308161141 +0000">
         <title>Jean de la Fontaine, le défi</title>
@@ -21621,6 +21631,11 @@ Pour résoudre ces cas, Norin doit inventer de nouvelles techniques opératoires
         <title>A.I. Artificial Intelligence</title>
         <desc>Dans le futur, les humains vivent aux côtés de robots de compagnie, les Mechas. Mais lorsque David, un prototype d'enfant robot, est programmé pour donner un amour inconditionnel, sa famille humaine n'est pas prête à en subir les conséquences.</desc>
         <icon src="https://images.pluto.tv/series/6617cf604da6e300139c44cb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c34592c911890007f29a73" start="20260309122732 +0000" stop="20260309140032 +0000">
+        <title>Sinister Squad</title>
+        <desc>Lorsqu'un culte surnaturel violent connu sous le nom de Messagers de la mort fait régner la terreur sur Terre, une équipe de méchants de contes malveillants est contrainte de se battre dans le monde moderne.</desc>
+        <icon src="https://images.pluto.tv/series/624a9380cb3fb6001348bdb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60c3472a51a2050008dad272" start="20260309073738 +0000" stop="20260309093256 +0000">
         <title>Rain Fall</title>
